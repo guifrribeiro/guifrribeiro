@@ -1,6 +1,7 @@
 ### Guilherme Ferreira
 
-- 🔭 I’m currently working on Landix Sistemas as fullstack developer
+- 🔭 I’m currently working at Landix Sistemas as fullstack developer
+- 🌱 I'm currently studying big data and cloud computing at Faculdade Descomplica
 
 <div>
   <a href="https://github.com/guifrribeiro">
